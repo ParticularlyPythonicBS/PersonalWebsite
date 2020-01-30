@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Experimental High Energy Researcher"
-  company = "University of illinois"
+  company = "University of Illinois"
   company_url = "http://research.physics.illinois.edu/hooberman/people/"
   location = "Urbana, Illinois"
   date_start = "2018-08-11"
@@ -33,11 +33,11 @@ date_format = "Jan 2006"
   location = "Batavia, Illinois"
   date_start = "2018-05-28"
   date_end = "2018-08-10"
-  description = """Analyzing High-Gradient superconducting radio-frequency cavities to improve accelarators under Dr. Mattia Chechhin
+  description = """Analyzing high-gradient superconducting radio-frequency cavities to improve accelarators under Dr. Mattia Chechhin
   """
 [[experience]]
   title = "Experimental Condensed Matter Researcher"
-  company = "University of illinois"
+  company = "University of Illinois"
   company_url = "http://vlorenz.web.engr.illinois.edu/"
   location = "Urbana, Illinois"
   date_start = "2016-09-01"
