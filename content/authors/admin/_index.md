@@ -54,8 +54,6 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 
-<a href="https://stackoverflow.com/users/10112922/anil-radhakrishnan"><img src="https://stackoverflow.com/users/flair/10112922.png" width="208" height="58" alt="profile for Anil Radhakrishnan at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Anil Radhakrishnan at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 # email: "anil@anilr.dev"
 ---
