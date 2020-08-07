@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "http://research.physics.illinois.edu/hooberman/people/"
   location = "Urbana, Illinois"
   date_start = "2018-08-11"
-  date_end = ""
+  date_end = "2019-07-11"
   description = """Developing Deep Learning Models for isolating leptons in LHC events at ATLAS under Dr. Benjamin Hooberman
   """
 [[experience]]
