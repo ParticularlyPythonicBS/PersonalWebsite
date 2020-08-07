@@ -14,7 +14,7 @@ role: Researcher/Coder/Student
 
 # Organizations/Affiliations
 organizations:
-- name: University of Illinois
+- name: North Carolina State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,10 +23,12 @@ organizations:
 interests:
 - Computational Physics
 - Deep Learning
-- Condensed Matter
 
 education:
   courses:
+  - course: PhD in Physics
+    institution: North Carolina State University
+    year: Current
   - course: BSc in Physics
     institution: University of Illinois at Urbana-Champaign
     year: 2019
