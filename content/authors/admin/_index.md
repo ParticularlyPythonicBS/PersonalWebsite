@@ -28,10 +28,10 @@ education:
   courses:
   - course: PhD in Physics
     institution: North Carolina State University
-    year: Current
+    year: 2020-Current
   - course: BSc in Physics
     institution: University of Illinois at Urbana-Champaign
-    year: 2019
+    year: 2016-2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
