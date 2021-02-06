@@ -17,14 +17,14 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+<!-- [[experience]]
   title = "Non-linear Artifical Intelligence Researcher"
   company = "North Carolina State University"
-  company_url = "https://labs.sciences.ncsu.edu/appliedchaoslab/"
-  location = "Raleigh, North Carolina"
-  date_start = "2020-08-1"
-  description = """Exploring the interplay between physics of Nonlinear Dynamics and machine learning 
-  """
+  <!-- company_url = "https://labs.sciences.ncsu.edu/appliedchaoslab/" -->
+  <!-- location = "Raleigh, North Carolina"
+  date_start = "2020-08-1" -->
+  <!-- description = """Exploring the interplay between physics of Nonlinear Dynamics and machine learning 
+  """ --> 
 [[experience]]
   title = "Experimental High Energy Researcher"
   company = "University of Illinois"
