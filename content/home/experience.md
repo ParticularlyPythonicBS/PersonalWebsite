@@ -17,21 +17,13 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-<!-- [[experience]]
-  title = "Non-linear Artifical Intelligence Researcher"
-  company = "North Carolina State University"
-  <!-- company_url = "https://labs.sciences.ncsu.edu/appliedchaoslab/" -->
-  <!-- location = "Raleigh, North Carolina"
-  date_start = "2020-08-1" -->
-  <!-- description = """Exploring the interplay between physics of Nonlinear Dynamics and machine learning 
-  """ --> 
 [[experience]]
   title = "Experimental High Energy Researcher"
   company = "University of Illinois"
   company_url = "http://research.physics.illinois.edu/hooberman/people/"
   location = "Urbana, Illinois"
   date_start = "2018-08-11"
-  date_end = "2020-07-20"
+  date_end = "2019-07-11"
   description = """Developing Deep Learning Models for isolating leptons in LHC events at ATLAS under Dr. Benjamin Hooberman
   """
 [[experience]]
