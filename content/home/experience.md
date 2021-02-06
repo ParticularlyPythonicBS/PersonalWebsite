@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Nonlinear Artificial Intelligence Researcher"
+  company = "North Carolina State University"
+  company_url = "https://labs.sciences.ncsu.edu/appliedchaoslab/"
+  location = "Raleigh, North Carolina"
+  date_start = "2020-08-01"
+  date_end = ""
+  description = """Exploring the interplay between deep learning and nonlinear dynamics
+  """
+[[experience]]
   title = "Experimental High Energy Researcher"
   company = "University of Illinois"
   company_url = "http://research.physics.illinois.edu/hooberman/people/"
